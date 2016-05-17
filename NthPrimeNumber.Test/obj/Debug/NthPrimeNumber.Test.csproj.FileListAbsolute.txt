@@ -1,0 +1,9 @@
+H:\Development\SandBox\NthPrimeNumber\NthPrimeNumber.Test\obj\Debug\NthPrimeNumber.Test.csprojResolveAssemblyReference.cache
+H:\Development\SandBox\NthPrimeNumber\NthPrimeNumber.Test\bin\Debug\NthPrimeNumber.Test.dll
+H:\Development\SandBox\NthPrimeNumber\NthPrimeNumber.Test\bin\Debug\NthPrimeNumber.Test.pdb
+H:\Development\SandBox\NthPrimeNumber\NthPrimeNumber.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\Development\SandBox\NthPrimeNumber\NthPrimeNumber.Test\bin\Debug\NthPrimeNumber.exe
+H:\Development\SandBox\NthPrimeNumber\NthPrimeNumber.Test\bin\Debug\NthPrimeNumber.pdb
+H:\Development\SandBox\NthPrimeNumber\NthPrimeNumber.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+H:\Development\SandBox\NthPrimeNumber\NthPrimeNumber.Test\obj\Debug\NthPrimeNumber.Test.dll
+H:\Development\SandBox\NthPrimeNumber\NthPrimeNumber.Test\obj\Debug\NthPrimeNumber.Test.pdb
