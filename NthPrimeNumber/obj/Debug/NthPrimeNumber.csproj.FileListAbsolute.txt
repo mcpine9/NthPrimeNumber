@@ -1,6 +1,0 @@
-H:\Development\SandBox\NthPrimeNumber\NthPrimeNumber\bin\Debug\NthPrimeNumber.exe.config
-H:\Development\SandBox\NthPrimeNumber\NthPrimeNumber\bin\Debug\NthPrimeNumber.exe
-H:\Development\SandBox\NthPrimeNumber\NthPrimeNumber\bin\Debug\NthPrimeNumber.pdb
-H:\Development\SandBox\NthPrimeNumber\NthPrimeNumber\obj\Debug\NthPrimeNumber.csprojResolveAssemblyReference.cache
-H:\Development\SandBox\NthPrimeNumber\NthPrimeNumber\obj\Debug\NthPrimeNumber.exe
-H:\Development\SandBox\NthPrimeNumber\NthPrimeNumber\obj\Debug\NthPrimeNumber.pdb
